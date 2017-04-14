@@ -1,0 +1,3 @@
+"C:\Users\username\Anaconda3\Scripts\jupyter" notebook
+
+
